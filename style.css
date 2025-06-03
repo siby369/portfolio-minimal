@@ -340,6 +340,7 @@ body {
         font-size: 1.8rem;
     }
     
+    
     .summary-text {
         text-align: left;
     }
@@ -369,10 +370,12 @@ body {
     .section-title {
         font-size: 1.6rem;
     }
+    
 }
 
 html {
     scroll-padding-top: 20px;
+    scroll-behavior: auto;
 }
 
 .nav-link:focus,
